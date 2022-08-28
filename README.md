@@ -1,10 +1,6 @@
 # YOLOV7-OBJECT-COUNTER
-Object Counting with the newest yolov7
-- Count all objetcs by classes and works perfetcly on every image or on a video
-- Code can run on Both (CPU & GPU)
-- Video/WebCam/External Camera/IP Stream Supported
 
-# Steps to run Code
+# How to run Code
 
 - clone the repository:
 - `git clone https://github.com/WongKinYiu/yolov7`
