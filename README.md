@@ -1,6 +1,7 @@
 # YOLOV7-OBJECT-COUNTER
 
 # How to run Code
+!!! All that needs to be done is to delete the detect.py file you downloaded and run the detect_and_count.py file.
 
 - clone the repository:
 - `git clone https://github.com/WongKinYiu/yolov7`
@@ -12,7 +13,7 @@
 # Upgrade pip
 - `pip install --upgrade pip`
 # Using counter example:
-- `!python detect.py --weights /content/gdrive/MyDrive/yolov7/weights/yolov7x.pt.3 --conf 0.5 --img-size 640 --source YOLOSample.mp4 --no-trace`
+- `!python detect_and_count.py --weights /content/gdrive/MyDrive/yolov7/weights/yolov7x.pt.3 --conf 0.5 --img-size 640 --source YOLOSample.mp4 --no-trace`
 
 
 
