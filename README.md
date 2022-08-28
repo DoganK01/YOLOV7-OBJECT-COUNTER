@@ -12,7 +12,6 @@ Object Counting with the newest yolov7
 - `%%bash`
 - `wget https://raw.githubusercontent.com/WongKinYiu/yolov7/u5/requirements.txt`
 - `wget -P /content/gdrive/MyDrive/yolov7/weights https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7x.pt`
--  ``
 - `pip install -r requirements.txt`
 # Upgrade pip with mentioned command below.
 - `pip install --upgrade pip`
