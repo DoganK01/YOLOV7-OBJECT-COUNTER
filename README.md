@@ -4,7 +4,7 @@
 
 - clone the repository:
 - `git clone https://github.com/WongKinYiu/yolov7`
-- %cd yolov7
+- `%cd yolov7`
 - `%%bash`
 - `wget https://raw.githubusercontent.com/WongKinYiu/yolov7/u5/requirements.txt`
 - `wget -P /content/gdrive/MyDrive/yolov7/weights https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7x.pt`
