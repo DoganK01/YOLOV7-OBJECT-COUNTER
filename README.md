@@ -7,13 +7,13 @@
 - `git clone https://github.com/WongKinYiu/yolov7`
 - `%cd yolov7`
 - `%%bash`
-- `wget https://raw.githubusercontent.com/WongKinYiu/yolov7/u5/requirements.txt`
+- `wget https://raw.githubusercontent.com/WongKinYiu/yolov7/u5/requirements.txt` or `pip install -r requirements.txt`
 - `wget -P /content/gdrive/MyDrive/yolov7/weights https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7x.pt`
-- `pip install -r requirements.txt`
+
 # Upgrade pip
 - `pip install --upgrade pip`
 # Using counter example:
-- `!python detect_and_count.py --weights /content/gdrive/MyDrive/yolov7/weights/yolov7x.pt.3 --conf 0.5 --img-size 640 --source YOLOSample.mp4 --no-trace`
+- `!python detect_and_count.py --weights /content/yolov7/weights/yolov7x.pt.3 --conf 0.5 --img-size 640 --source YOLOSample.mp4 --no-trace`
 
 
 
