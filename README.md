@@ -1,15 +1,15 @@
 # YOLOV7-OBJECT-COUNTER
 
 # How to run Code
-!!! All that needs to be done is to delete the detect.py file you downloaded and run the detect_and_count.py file.
+
 
 - clone the repository:
-- `git clone https://github.com/WongKinYiu/yolov7`
+- `git clone https://github.com/DoganK01/YOLOV7-OBJECT-COUNTER`
 - `%cd yolov7`
 - `%%bash`
 - `wget https://raw.githubusercontent.com/WongKinYiu/yolov7/u5/requirements.txt`  
 - `pip install -r requirements.txt`
-- `wget -P /content/gdrive/MyDrive/yolov7/weights https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7x.pt`
+- `wget -P /content/yolov7/weights https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7x.pt`
 
 # Upgrade pip
 - `pip install --upgrade pip`
