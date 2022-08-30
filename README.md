@@ -14,7 +14,7 @@
 # Upgrade pip
 - `pip install --upgrade pip`
 # Using counter example:
-- `!python detect_and_count.py --weights /content/yolov7-main/weights/yolov7x.pt.3 --conf 0.5 --img-size 640 --source YOLOSample.mp4 --no-trace`
+- `!python detect_and_count.py --weights /content/yolov7-main/weights/yolov7x.pt --conf 0.5 --img-size 640 --source YOLOSample.mp4 --no-trace`
 
 
 
