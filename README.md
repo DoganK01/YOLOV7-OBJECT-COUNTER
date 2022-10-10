@@ -14,9 +14,11 @@
 # Upgrade pip
 - `pip install --upgrade pip`
 # Using counter example:
+- For Object Counter 1:
 - `!python detect.py --weights /content/YOLOV7-OBJECT-COUNTER/yolov7-main/weights/yolov7x.pt --conf 0.5 --img-size 640 --source YOLOSample.mp4 --no-trace`
 
-
+- For Object Counter 2:
+- `!python detect_and_count.py --weights /content/YOLOV7-OBJECT-COUNTER/yolov7-main/weights/yolov7x.pt --conf 0.5 --img-size 640 --source YOLOSample.mp4 --no-trace`
 
 
 # Result:
