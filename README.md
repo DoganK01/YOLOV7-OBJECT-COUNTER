@@ -22,7 +22,13 @@
 
 
 # Result:
+## detect.py (Object Counter 1)
 ![image](https://user-images.githubusercontent.com/98788987/187072479-e7dd5277-a0fb-4204-ba00-48a1aa071a4d.png)
+## detect_and_count.py (Object Counter 2) (This code is without red lines)
+
+
+https://user-images.githubusercontent.com/98788987/233976913-dddafc05-baac-4226-ac20-ed452e003a2b.mp4
+
 
 
 # Sample Videos
